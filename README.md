@@ -1,4 +1,4 @@
-# CKAD Exercises 2025 &nbsp;<img src="https://media.licdn.com/dms/image/v2/D4E12AQGvknQ8pjIPVQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1719568767259?e=1752105600&v=beta&t=UtvsZyAC74k9apgStORTy6YKuQTps5uROTlOQyFjM-8" alt="ckad logo" width="29"/>
+# CKAD Exercises 2025 
 
 - A set of exercises designed to prepare for the CKAD exam, structured according to the exam curriculum: https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/ 
 - If you notice any errors or would like to suggest an alternative solution to a question, **you're welcome to open a PR!**
